@@ -15,5 +15,5 @@
 
 - [x] Assignment handed out (26.04.2022)
 - [x] Initial commit (09.05.2022)
-- [ ] Work on assignment (09.04 - 14.05.2022)
-- [ ] Handin (15.04.2022)
+- [x] Work on assignment (09.04 - 14.05.2022)
+- [x] Handin (15.04.2022)
